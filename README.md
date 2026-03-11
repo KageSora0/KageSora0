@@ -1,5 +1,3 @@
-### what I'm about
-
 I write code, lift heavy things, watch anime, and think about compound interest.
 
 I build open source tools at the intersection of developer experience and things I personally needed but didn't exist. If it's useful to me, it's probably useful to someone else.
