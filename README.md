@@ -17,6 +17,6 @@ My projects are open source and contributions are always welcome. If something I
 
 ---
 
-<p align="center">
+<p>
   <em>"the best time to plant a tree was 20 years ago. the second best time is today."</em>
 </p>
