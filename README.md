@@ -18,7 +18,7 @@ I build open source tools at the intersection of developer experience and things
 
 ### currently
 
-- building **[gitaura](https://github.com/KageSora0/git-aura)** — a CLI that analyzes any GitHub profile and reveals your developer archetype
+- building **[git-aura](https://github.com/KageSora0/git-aura)** — a CLI that analyzes any GitHub profile and reveals your developer archetype
 - studying markets and building tools to think about them better
 
 ### build with me
