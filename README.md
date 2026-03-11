@@ -1,15 +1,3 @@
-<h1>yo, I'm KageSora 👋</h1>
-
-<p>
-  <strong>open source dev · building tools I wish existed</strong>
-</p>
-
-<p>
-  <a href="https://x.com/KageSora0">
-    <img src="https://img.shields.io/badge/Twitter-@KageSora0-1DA1F2?style=flat&logo=x&logoColor=white" alt="Twitter" />
-  </a>
-</p>
-
 ### what I'm about
 
 I write code, lift heavy things, watch anime, and think about compound interest.
