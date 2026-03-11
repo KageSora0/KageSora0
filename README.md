@@ -31,10 +31,6 @@ My projects are open source and contributions are always welcome. If something I
   <img src="https://github-readme-stats.vercel.app/api?username=KageSora0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KageSora0&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6e40&currStreakLabel=58a6ff" alt="GitHub streak" />
-</p>
-
 ---
 
 <p align="center">
