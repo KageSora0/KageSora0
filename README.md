@@ -1,9 +1,6 @@
-I write code, lift heavy things, watch anime, and think about compound interest.
+I write code, lift heavy things, watch anime, and think about investments.
 
-I build open source tools at the intersection of developer experience and things I personally needed but didn't exist. If it's useful to me & fun, it's probably useful to someone else :) 
+I love sharing my projects, check it out below :) 
 
----
-
-<p>
-  <em>"the best time to plant a tree was 20 years ago. the second best time is today."</em>
-</p>
+### Projects
+- [git-aura](https://github.com/KageSora0/git-aura) Analyze any GitHub user's public profile and generate a stylized **developer card** in the terminal. 
